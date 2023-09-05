@@ -15,4 +15,4 @@ then took light measurements throughout the day and made note of which sky color
 
 
 ### Images
-[Wiring](https://github.com/andraiorgules/SkyLight/blob/main/assets/sp1_wiring.png)
+[(https://github.com/andraiorgules/SkyLight/blob/main/assets/sp1_wiring.png)]
